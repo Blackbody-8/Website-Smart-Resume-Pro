@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Support - Smart Resume Pro</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; color: #334155; max-width: 800px; margin: 0 auto; padding: 2rem; }
+        h1 { color: #2563eb; }
+        h2 { color: #1e293b; margin-top: 1.5rem; }
+        .back-link { display: inline-block; margin-bottom: 2rem; color: #2563eb; text-decoration: none; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <a href="index.html" class="back-link">← Back to Home</a>
+    
+    <h1>Support</h1>
+
+    <h2>Contact Us</h2>
+    <p>If you have questions about our policies or services, please contact us at <a href="mailto:eugeneresume@yahoo.com">eugeneresume@yahoo.com</a>.</p>
+
+    <footer>
+        <div style="margin-bottom: 1rem;">
+        </div>
+        <p>&copy; 2026 Smart Resume Pro. All rights reserved.</p>
+    </footer>
+</body>
+</html>
